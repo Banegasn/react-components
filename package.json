@@ -1,6 +1,6 @@
 {
-  "name": "react-components",
-  "version": "1.0.0",
+  "name": "@banegasn/react-components",
+  "version": "0.0.1",
   "description": "Just a react components library",
   "main": "lib/index.js",
   "scripts": {
@@ -29,6 +29,7 @@
   "devDependencies": {
     "@types/react": "^17.0.2",
     "react": "^17.0.1",
-    "typescript": "^4.1.5"
+    "typescript": "^4.1.5",
+    "openapi3-ts": "^2.0.1"
   }
 }
